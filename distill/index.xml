@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Distills on Thu Phuong Nguyen</title><link>https://phuongnt197.github.io/distill/</link><description>Recent content in Distills on Thu Phuong Nguyen</description><generator>Hugo</generator><language>en</language><copyright>© Copyright 2023 The Academic Folio Contributors</copyright><lastBuildDate>Tue, 10 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://phuongnt197.github.io/distill/index.xml" rel="self" type="application/rss+xml"/><item><title>Attention and Augmented Recurrent Neural Networks</title><link>https://phuongnt197.github.io/distill/example/</link><pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate><guid>https://phuongnt197.github.io/distill/example/</guid><description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;This is the ﬁrst paragraph of the article. Test a long — dash — here it is.&lt;/p&gt;
+&lt;p&gt;Test for owner’s possessive. Test for &amp;ldquo;quoting a passage.&amp;rdquo; And another sentence. Or two. Some ﬂopping ﬁns; for diving.&lt;/p&gt;
+&lt;p&gt;Here’s a test of an inline equation &lt;d-math &gt;c = a^2 + b^2&lt;/d-math&gt;
+. And then there’s a block equation:
+&lt;d-math block &gt;
+c = \pm \sqrt{ \sum\limits_{i=0}^{n}{a^{222} + b^2}}
+&lt;/d-math&gt;
+&lt;/p&gt;</description></item></channel></rss>
