@@ -79,8 +79,8 @@ jobs:
             hugo-
       - name: Build the site
         run: |
-          hugo -s exampleSite -\
-            -minify \
+          hugo -s exampleSite \
+            --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
       - name: Cache save
