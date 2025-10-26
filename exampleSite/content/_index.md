@@ -1,13 +1,21 @@
 ---
-title: Academic Folio
+title: THU PHUONG
 
 profPic: prof_pic.jpg
 ---
 
-**Albert Einstein** was a German-born theoretical physicist, widely acknowledged to be one of the greatest and most influential physicists of all time. He is best known for developing the **_theory of relativity_**, but he also made important contributions to the development of **_quantum mechanics_**. Together **_relativity_** and **_quantum mechanics_** formed the two pillars of modern physics.
+<!-- Welcome to my personal website! 👋 I’m currently pursuing my Master’s degree in Computer Science and Engineering at UNIST, where I also completed my Bachelor’s degree magna cum laude with a major in Computer Science and Engineering and a minor in Industrial Engineering.
 
-His **_mass–energy_** equivalence formula `E = mc²`, which arises from relativity theory, has been dubbed _"the world's most famous equation"_. His work is also known for its influence on the philosophy of science.
+My research interests lie at the intersection of vision-language models, document understanding, and AI for education. I’m currently a graduate research assistant at the [Interactive Multimodal Machine Learning Lab (IMML Lab)](https://sites.google.com/view/imml-lab/home) under supervision of [Professor Taehwan Kim](https://sites.google.com/view/taehwankim), where I work on improving large vision-language models for layout recognition and automated grading systems.
 
-He received the 1921 Nobel Prize in Physics _"for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect"_, a pivotal step in the development of **_quantum theory_**. His intellectual achievements and originality resulted in _"Einstein"_ becoming synonymous with _"genius"_. **_Einsteinium_**, one of the synthetic elements in the periodic table, was named in his honor.
+Outside of research, I enjoy exploring new technologies, working on creative AI projects, and capturing everyday moments through photography. -->
 
-_Source: Wikipedia, CC-BY-SA-3.0_
+### About Me
+
+Hello! I'm Thu Phuong Nguyen, a passionate and driven computer scientist currently pursuing my Master's degree in Computer Science and Engineering at the Ulsan National Institute of Science and Technology (UNIST). I also completed my Bachelor's degree at UNIST, majoring in Computer Science and Industrial Engineering.
+
+My research is focused on the exciting intersection of computer vision, natural language processing, and deep learning. I am currently a Research Assistant at the [Interactive Multimodal Machine Learning Lab (IMML Lab)](https://sites.google.com/view/imml-lab/home) under supervision of [Professor Taehwan Kim](https://sites.google.com/view/taehwankim), where I am working to improve the capabilities of Vision Language Models (VLMs) in recognizing PDF layouts and understanding complex documents. As part of this research, I also developed a VLM-based AI-automated grading system , which is part of a paper submitted to the EMNLP Main Conference 2025.
+
+This website is a place for me to share my projects, research, and professional journey. I am always open to discussing new ideas, collaborations, and opportunities in the field of AI.
+
+Please feel free to connect with me or reach out at **phuongnt@unist.ac.kr**.

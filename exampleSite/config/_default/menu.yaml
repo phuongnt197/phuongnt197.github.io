@@ -1,39 +1,32 @@
 main:
-- name: Blog
-  url: /posts/
+
+- name: Home
+  url: /
   weight: 1
 
-- name: Teaching
-  url: /teaching/
+- name: Publications
+  url: /publications/
   weight: 2
 
-- name: Biography
-  url: /bio/
-  weight: 3
-
 - name: Curriculum Vitae
-  url: /cv/
-  weight: 4
-
-- name: Projects
-  url: /projects/
-  weight: 5
+  url: /files/cv.pdf
+  weight: 3
 
 social:
 - name: email
-  url: mailto:email@example.com
+  url: mailto:phuongnt@unist.ac.kr
   weight: 1
   params:
     icon: fas fa-envelope
 
 - name: LinkedIn
-  url: https://www.linkedin.com/username
+  url: https://www.linkedin.com/in/phuongnt197/
   weight: 2
   params:
     icon: fab fa-linkedin
 
 - name: GitHub
-  url: https://github.com/username
+  url: https://github.com/phuongnt197
   weight: 3
   params:
     icon: fab fa-github

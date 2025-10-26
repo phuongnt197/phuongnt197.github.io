@@ -1,9 +1,9 @@
-firstName: Albert
-lastName: Einstein
+firstName: Thu Phuong
+lastName: Nguyen
 
-email: einstein@example.org
+email: phuongnt@unist.ac.kr
 
-description: Albert Einstein's personal website powered by the Academic Folio theme
+# description: Thu Phuong Nguyen's personal website powered by the Academic Folio theme
 
 favicon: ⚛️ # You can either enter an emoji or the name of an image file present in `assets/img` folder
 
@@ -12,11 +12,11 @@ footerText: >
   <a href="https://github.com/rohandebsarkar/academic-folio">Academic Folio</a> theme
 
 tags: # these tags would be added as keywords in metadata for website
-- academic-folio
 - academic-website
-- al-folio
-- hugo
-- hugo-theme
+- Deep learning
+- OCR
+- VLA
+- Generative models
 
 maxWidth: 1024px
 
@@ -25,7 +25,7 @@ navbarTitle: true # displays the title in the navbar on non home pages
 footerLastUpdated: true
 
 recentPosts: 5 # number of recent posts to show in home page
-showRecentPosts: true
+showRecentPosts: false
 
 recentNews: 5 # number of recent news to show in home page
 showRecentNews: true
