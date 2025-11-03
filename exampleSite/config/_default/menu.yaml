@@ -30,9 +30,3 @@ social:
   weight: 3
   params:
     icon: fab fa-github
-
-- name: RSS Feed
-  url: /index.xml
-  weight: 4
-  params:
-    icon: fas fa-square-rss
